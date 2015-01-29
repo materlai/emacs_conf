@@ -149,7 +149,7 @@
 (global-set-key (kbd "M-s") 'helm-gtags-select)
 
 ;;linux  kernel include path 
-(semantic-add-system-include "~/build/OV_Driver/omap4-v4l2-camera/include")
+;;(semantic-add-system-include "~/build/OV_Driver/omap4-v4l2-camera/include")
 
 
 
